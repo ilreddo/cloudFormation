@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#command to run in gitbash is  sh create-stack.sh njha-udacity-demo myinfra.yml myinfra-params.json
+aws cloudformation create-stack \
+--stack-name $1 \
+--template-body file://$2 \
+--parameters file://$3 \
+--region=us-east-1 \
+--capabilities CAPABILITY_NAMED_IAM

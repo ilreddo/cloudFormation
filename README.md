@@ -1,3 +1,3 @@
 # cloudFormation
  
-[Link](http://udaci-WebAp-1IOUJH0LXSAXA-117191133.us-east-1.elb.amazonaws.com) to deployed HTML page
+[Link](http://udaci-webap-1xzp4e6v66j9d-330107866.us-east-1.elb.amazonaws.com/) to deployed HTML page
